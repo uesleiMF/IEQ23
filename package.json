@@ -6,14 +6,15 @@
     "dev": "next dev",
     "Build": "npm run build",
     "start": "react-scripts start",
-
     "lint": "next lint"
   },
   "dependencies": {
     "firebase": "^8.8.0",
     "next": "11.0.1",
+    "npm": "^9.2.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "vercel.json": "^0.1.0"
   },
   "devDependencies": {
     "@types/react": "^17.0.14",
