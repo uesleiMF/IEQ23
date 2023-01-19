@@ -66,8 +66,8 @@ export function Home() {
       <div className="container p-4 align-items-center text-center ">
         <img src={photo} alt="" width={'100px'} className="px-2" />
 
-        <h5>Alexia Kattah</h5>
-        <p className="m-0">@alexiakattah</p>
+        <h5>JUMF</h5>
+        <p className="m-0">@Jumf</p>
 
         <div className="d-flex justify-content-center">
           <a href="http://instagram.com/alexiakattah" rel="noopener noreferrer">
@@ -115,7 +115,7 @@ export function Home() {
         <Form />
       </div> */}
       <div className="text-center mt-4">
-        <p>Feito com 💓 por Alexia Kattah</p>
+        <p>Feito com jumf</p>
       </div>
     </>
   );
