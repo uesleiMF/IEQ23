@@ -67,7 +67,7 @@ export function Home() {
         <img src={photo} alt="" width={'100px'} className="px-2" />
 
         <h5>JUMF</h5>
-        <p className="m-0">@Jumf</p>
+        <p className="m-0">Jumf</p>
 
         <div className="d-flex justify-content-center">
           <a href="http://instagram.com/alexiakattah" rel="noopener noreferrer">
@@ -115,7 +115,7 @@ export function Home() {
         <Form />
       </div> */}
       <div className="text-center mt-4">
-        <p>Feito com jumf</p>
+        <p>Feito por jumf</p>
       </div>
     </>
   );
