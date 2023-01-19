@@ -1,0 +1,18 @@
+.card-image{
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px 0;
+  height: 8rem;
+  display: flex;
+}
+.card-image>img{
+  background-color: white;
+margin: auto;
+}
+
+p{
+  color: #585858;
+}
+h4{
+  font-family: 'Poppins Medium';
+}
